@@ -7,6 +7,6 @@
 <title>home.jsp</title>
 </head>
 <body>
-<h2 align=center>Welcome Home!</h2>
+<h1 align=center>Welcome Home!</h1>
 </body>
 </html>
